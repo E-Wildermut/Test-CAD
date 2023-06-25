@@ -35,7 +35,6 @@ Führen Sie den Befehl
 git reset --hard abc1234
 
 ```markdown
-```diff
 
 aus und ersetzen Sie "abc1234" durch die Commit-Hash-ID, auf die Sie zurücksetzen möchten. Dadurch wird Ihr main Branch auf den Zustand dieses Commits zurückgesetzt.
 
