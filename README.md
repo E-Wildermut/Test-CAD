@@ -32,7 +32,7 @@ Verwenden Sie den Befehl git checkout main, um sicherzustellen, dass Sie sich au
 
 Führen Sie den Befehl 
 ```diff
-+git reset --hard abc1234
+git reset --hard abc1234
 
 ```markdown
 ```diff
