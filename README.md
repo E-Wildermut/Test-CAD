@@ -33,6 +33,10 @@ Verwenden Sie den Befehl git checkout main, um sicherzustellen, dass Sie sich au
 Führen Sie den Befehl 
 ```diff
 +git reset --hard abc1234
+
+```markdown
+```diff
+
 aus und ersetzen Sie "abc1234" durch die Commit-Hash-ID, auf die Sie zurücksetzen möchten. Dadurch wird Ihr main Branch auf den Zustand dieses Commits zurückgesetzt.
 
 Führen Sie den Befehl git push origin +main aus, um Ihre Änderungen zu GitHub zu pushen.
